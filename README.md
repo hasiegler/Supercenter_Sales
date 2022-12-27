@@ -6,3 +6,4 @@ The sales data is explored and analyzed to provide insights to management of the
 
 Please see the [Jupyter Notebook file](https://github.com/hasiegler/Supercenter_Sales/blob/main/supermarket_sales_analysis.ipynb)
 
+[Link to Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
